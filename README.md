@@ -18,4 +18,4 @@ If you want to contact me, probably tell me what I did wrong, feel free to hit m
 
 ## Analysis
 
-You can peak the full analysis in the [notebook]() or on [nbviewer]()
+You can peak the full analysis in the [notebook](https://github.com/6ones/covid-19/blob/master/Real-time%20Rt%20in%20Nigeria.ipynb) or on [nbviewer](https://nbviewer.jupyter.org/github/6ones/covid-19/blob/master/Real-time%20Rt%20in%20Nigeria.ipynb)
