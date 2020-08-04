@@ -2,6 +2,8 @@
 
 Chidindu Promise Ogbonna - May 1
 
+>> [View The Notebook](https://github.com/6ones/covid-19/blob/master/Real-time%20Rt%20in%20Nigeria.ipynb)
+
 I came across an analysis by [Kevin Systrom](https://twitter.com/kevin) on this exact topic, [Estimating COVID-19's Rt in Real-Time](https://github.com/k-sys/covid-19/blob/master/Realtime%20R0.ipynb). But that was done on the coronavirus pandemic in the United States.
 This analysis is an attempt at estimating the COVID-19s Rt in Real-Time in **Nigeria**.
 
